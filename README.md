@@ -21,4 +21,4 @@ Additional Tools:
 Axios (for API calls)
 CORS (Cross-Origin Resource Sharing)
 
-Checkout Link : []
+Checkout Link : [https://fruit-management-app.vercel.app/]
