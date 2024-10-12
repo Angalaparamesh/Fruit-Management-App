@@ -1,0 +1,38 @@
+body{
+  margin:0;
+  padding:0;
+}
+
+
+
+.App{
+  background-color: black;
+  color:white;
+  width:50%;
+  /* height:50%; */
+  margin:15%;
+  padding:5%;
+}
+input{
+  background-color: white;
+  height:35px;
+  width:50%;
+  border:none;
+  border-radius:10px;
+  font-size: large;
+}
+
+button{
+  background-color: rgba(214, 13, 114, 0.822);
+  color:white;
+  height:35px;
+  width:20%;
+  border:none;
+  border-radius:10px;
+  
+}
+
+.list{
+  /* text-align: center; */
+  font-size: larger;
+}
